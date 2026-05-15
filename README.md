@@ -1,7 +1,7 @@
 # Compactando e Descompactador de imagens.
 
 >Parte do codigo foi disponibilizados pelos professores da materia de Fundamentos de Programação da UTFPR Curitiba.
-> Somente o arquivo *t1.c* é de minha autoria.
+>Somente o arquivo *t1.c* é de minha autoria.
 
 ## Funcionamento
 Para utilizar este projeto você deve fazer o *download* deste repositorio, mas em seu projeto apenas um dos arguivos *main* deve estar incluso.
