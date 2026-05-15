@@ -1,4 +1,4 @@
-# Compactado e Descompactador de imágens.
+# Compactando e Descompactador de imagens.
 
 >Parte do codigo foi disponibilizados pelos professores da materia de Fundamentos de Programação da UTFPR Curitiba.
 > Somente o arquivo *t1.c* é de minha autoria.
